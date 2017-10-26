@@ -1,4 +1,4 @@
-﻿                                                        -*- coding: utf-8 -*-
+﻿All this is basic,keeping me on course.                                                        -*- coding: utf-8 -*-
 Changes with Apache 2.2.4
 
   *) mod_isapi: Correctly present SERVER_PORT_SECURE.
